@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 14th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Carly Blakey
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment was to edit the index html file and add 8 addition content sections by using the examples. The information was pulled from http://www.omdbapi.com/.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://carlyanneblake.github.io/lesson8_ajax/
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. An API is an application programming interface that is essentially programming standards for web tools/apps. 
+2. Ajax is data-driven not page-driven.
+3. Twitter and facebook have JSON based APIs.
